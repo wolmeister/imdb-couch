@@ -1,0 +1,25 @@
+{
+  "name": "imdb-couch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wolmeister/imdb-couch.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wolmeister/imdb-couch/issues"
+  },
+  "homepage": "https://github.com/wolmeister/imdb-couch#readme",
+  "dependencies": {
+    "event-stream": "^4.0.1",
+    "mysql2": "^2.1.0",
+    "nano": "^8.2.2"
+  }
+}
