@@ -19,6 +19,7 @@
   "homepage": "https://github.com/wolmeister/imdb-couch#readme",
   "dependencies": {
     "lodash": "^4.17.15",
+    "mongodb": "^3.5.9",
     "mysql2": "^2.1.0",
     "nano": "^8.2.2"
   }
